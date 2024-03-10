@@ -5,7 +5,7 @@
 | :sparkles: Nome        | **Py_Polygons_Tkinter**
 | :label: Tecnologias | Python Tkinter Math
 
-![polygon](https://github.com/FabioIngenito/Py_Polygons_Tkinter_Math/assets/24603753/515e8ae1-8c01-472f-a945-5b655bd244d1#vitrinedev)
+![polygon](https://github.com/FabioIngenito/Py_Polygons_Tkinter_Math/assets/24603753/e63493f1-d5ec-4f0c-a186-2d66694765ca#vitrinedev)
 
 
 <h2 align="left">Detalhes do projeto</h2>
