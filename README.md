@@ -14,6 +14,6 @@ Draw Polygons using Tkinter + Math. ATTENTION!!! You DO NOT need to INSTALL the 
 
 Desenha Polígonos usando o Tkinter + Math. ATENÇÃO!!! NÃO É preciso INSTALAR o pacote TKinter, pois é nativo do Python.
 
-Example of polygons drawn in Tkinter + Math. Both in "Windows Forms".
+Example of polygons drawn in Tkinter + Math in "Windows Forms".
 
-Exemplo de polígonos desenhados em Tkinter + Math. Ambos em "Windows Forms".
+Exemplo de polígonos desenhados em Tkinter + Math em "Windows Forms".
